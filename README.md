@@ -1,8 +1,3 @@
-Gotcha — you don’t want it inside a code block, just normal text you can paste straight into `README.md`.
-
-Here’s the **Assignment 3 Part A README** again with **no triple backticks / code fences** anywhere:
-
----
 
 # Assignment 3 – Multilayer Perceptrons on MNIST (Part A)
 
@@ -265,10 +260,6 @@ Each experiment follows a similar training pattern:
 ---
 
 -----------------------------------------------------------------------------------
-
-No problem, here’s the **Assignment 3 Part B README** with **no code block**, ready to paste directly into `README.md` on GitHub.
-
----
 
 # Assignment 3 – Multilayer Perceptrons on CIFAR-10 (Part B)
 
